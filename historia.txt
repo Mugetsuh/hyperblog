@@ -1,4 +1,6 @@
 Es es la vida de no se sss
 
 
+master 1 000
+
 modificar edad ...
